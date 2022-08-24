@@ -3,10 +3,10 @@
       "description_header": "Korean",
       "description": "👋 이한별",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "이한별",
+        "projects": "프로젝트",
+        "skills": "스킬",
+        "experience": "경험"
       }
     },
     "projects": [
