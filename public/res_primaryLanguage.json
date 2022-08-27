@@ -12,11 +12,11 @@
     "projects": [
       {
         "title": "Cookie Stand",
-        "startDate": "2021",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. Creating a system where input city and sold cookies can be predicted.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpeg",
+          "images/portfolio/animal-shelter/p2.webp"
         ],
         "url": "",
         "technologies": [
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Lottery",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for Creating a Fake lottery app to have for people who wants to see if their numbers are correct.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/davidlee9088?tab=repositories",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "City Explorer",
+        "startDate": "2022",
+        "description": "One of the first apps I have been working on Using Front-End and Back End to transfer datas of live weather and movie data.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -82,8 +82,8 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "title": "Full-Stack Developer",
+        "years": "07.2022 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -93,25 +93,21 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "EF Core"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US ARMY",
+        "title": "Behavioral Health Tech",
+        "years": "08.2016 - 09.2022",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Pt Treatment",
+          "Genesis",
+          "Medical Programs",
+          "JavaScript"
         ]
       }
     ]
